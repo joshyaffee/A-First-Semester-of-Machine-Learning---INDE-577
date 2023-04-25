@@ -1,4 +1,5 @@
-# A-First-Semester-of-Machine-Learning---INDE-577
+# A First Semester of Machine Learning - INDE 577
+### Joshua Yaffee, Spring 2023
 
 In this repo, we take a tour of the Machine Learning models and techniques covered in Rice University's INDE 577 (Spring 2023) taught by Dr. Randy Davila. Each subdirectory will containt a README file with a very brief overview of the contents. Each subdirectory will also include a Jupyter Notebook where the topic is thoroughly explained in markdown and applied using Python. 
 
