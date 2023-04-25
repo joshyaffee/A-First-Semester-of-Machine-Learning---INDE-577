@@ -1,6 +1,6 @@
 # Welcome to Supervised Learning!
 
-Within this subdirectory, we explore many lavors of Supervised Learning. I recommend going in the labeled order (i.e. 1.1, 1.2, etc.) in order for the notebooks to build on the ideas introduced previously.
+Within this subdirectory, we explore many flavors of Supervised Learning. I recommend going in the labeled order (i.e. 1.1, 1.2, etc.) in order for the notebooks to build on the ideas introduced previously.
 
 In general, Supervised learning is a type of machine learning in which the algorithm is trained on a labeled dataset in order to learn how to make accurate predictions or classifications on new, unseen data. There are two main types of supervised learning models: parameterized and nonparameterized.
 
