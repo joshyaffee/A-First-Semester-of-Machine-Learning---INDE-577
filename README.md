@@ -12,7 +12,7 @@ I omit a requirements.txt file, as the libraries and versions I used are few in 
 Enjoy the tour!
 
 ## Table of Contents
-- \1. Supervised Learning
+- 1. Supervised Learning
   - 1.1. The Perceptron - Humble but strong
   - 1.2. Gradient Descent and Linear Regression - The Natural Approach
   - 1.3. Logisitc Regression - The Sigmoid Enters
@@ -21,7 +21,7 @@ Enjoy the tour!
   - 1.6. Decision Trees - Taking Care of Entropy
   - 1.7. Random Forests, Ensemble, and more - Creating More Robust Models
   - 1.8. The Stroke Dataset - Application of Our Robust Models
-- \2. Unsupervised Learning
+- 2. Unsupervised Learning
   - 2.1. DBScan, K-Means, and a bonus model - Clustering Comparisons
   - 2.2. PCA - Elegant Dimensionality Reduction
-- \3. Other ML Topics
+- 3. Other ML Topics
