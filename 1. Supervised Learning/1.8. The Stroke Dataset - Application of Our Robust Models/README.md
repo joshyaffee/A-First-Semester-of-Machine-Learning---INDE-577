@@ -1,4 +1,4 @@
-## Predicting Strokes using Machine Learning
+## Predicting Strokes Using Machine Learning
 ### In Colaboration with George Lyu
 
 See [`https://github.com/joshyaffee/healthcare_stroke_ML/blob/main/StrokePredictionML.ipynb`](https://github.com/joshyaffee/healthcare_stroke_ML/blob/main/StrokePredictionML.ipynb) for our original uploaded code and work description.
