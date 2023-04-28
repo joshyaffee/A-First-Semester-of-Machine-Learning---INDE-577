@@ -19,3 +19,5 @@ We will employ the following analysis strategy for using machine learning to pre
 5. Validation
 
 The next step would be to implement Cross Validation. This exercise is left to the viewer :)
+
+Note: Some of the outputs may be difficult to parse through; make sure to read the markdown to know what is being displayed.
