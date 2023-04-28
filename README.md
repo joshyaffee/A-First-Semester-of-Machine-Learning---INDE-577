@@ -7,7 +7,7 @@ We learn about each topic by investigating a dataset about college basketball te
 
 The bulk of the tour is Supervised Learning where we cover topics ranging from the Perceptron to Random Forests. Finally, we apply what we know to a healthcare dataset with the goal of predicting strokes. This was a project in colaboration with George Lyu (Rice University, 2024). Next, we look at Unsupervised Learning, specifically Clustering and PCA. Within the clustering notebook, there is a bonus algorithm and its implementation. Finally, our tour ends with brief summaries of Reinforcement Learning and Pretrained Models, two topics briefly covered in INDE 577. Below you can find the table of contents.
 
-I omit a requirements.txt file, as the libraries and versions I used are few in numbers and quite standard and robust.
+I omit a requirements.txt file, as the libraries and versions I used are few in numbers and quite standard and robust in terms of version compatability.
 
 Enjoy the tour!
 
